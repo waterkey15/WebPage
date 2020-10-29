@@ -1,3 +1,48 @@
+## Laravel Project for a public Frontend Theme
+
+To begin with after starting a laravel project inside of a web server package's htdocs file (like apache XAAMP, MAAP (I used XAAMP)) in terminal inside of the files path run 'php artisan serve' and in http://127.0.0.1:8000/ this website will be online. 
+
+in order to reach the admin panel go to 'Account/login', user name = admin@dingo.com password = 12345678
+
+once you reach the admin panel in sidebar there are plenty of things avaible like user list, role list, permission list. User can edit and add and delete these things if necessary. 
+
+If you want to reach the website again you can click the website section of the sidebar in admin panel.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
