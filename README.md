@@ -1,6 +1,6 @@
 ## Laravel Project for a public Frontend Theme
 
-To begin with after starting a laravel project inside of a web server package's htdocs file (like apache XAAMP, MAAP (I used XAAMP)) in terminal inside of the files path run 'php artisan serve' and in http://127.0.0.1:8000/ this website will be online. 
+To begin with after starting a laravel project inside of a web server package's htdocs file (like apache XAAMP, MAAP (I used XAAMP)) in terminal inside of the files path run 'php artisan serve' and in http://127.0.0.1:8000/ this website will be online. Also you may need to create a database named dingo from http://localhost/phpmyadmin. When you refresh a couple of times one admin and one user will be generated. 
 
 in order to reach the admin panel go to 'Account/login', user name = admin@dingo.com password = 12345678
 
